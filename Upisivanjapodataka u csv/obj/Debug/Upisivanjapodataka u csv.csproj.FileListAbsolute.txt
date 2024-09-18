@@ -1,0 +1,10 @@
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\bin\Debug\Upisivanjapodataka u csv.exe.config
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\bin\Debug\Upisivanjapodataka u csv.exe
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\bin\Debug\Upisivanjapodataka u csv.pdb
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\obj\Debug\Upisivanjapodataka u csv.csproj.AssemblyReference.cache
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\obj\Debug\Upisivanjapodataka_u_csv.Form1.resources
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\obj\Debug\Upisivanjapodataka_u_csv.Properties.Resources.resources
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\obj\Debug\Upisivanjapodataka u csv.csproj.GenerateResource.cache
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\obj\Debug\Upisivanjapodataka u csv.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\obj\Debug\Upisivanjapodataka u csv.exe
+C:\Users\Ucenik\source\repos\Upisivanjapodataka u csv\obj\Debug\Upisivanjapodataka u csv.pdb
